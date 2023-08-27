@@ -17,7 +17,7 @@ The Movie Recommendation System using Textual Features is designed to provide us
 
 - Python 3.x
 - Required libraries: pandas, scikit-learn
-(refer to [requirements.txt](requirements.txt) for details.
+(refer to [requirements.txt](requirements.txt) for details)
 
 ### Installation
 
