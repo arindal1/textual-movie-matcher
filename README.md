@@ -39,11 +39,11 @@ This project harnesses the power of machine learning and natural language proces
 
 ### Usage
 
-1. Ensure you have the required dataset (e.g., `movies.csv`) in the project directory.
+1. Ensure you have the required dataset (e.g., `movies.csv`) in the project directory. You can download the movies dataset from [dataset/](/dataset/) folder.
 
-2. Run the code [Movie Recommendation System]()
+2. Run the code [Movie Recommendation System](https://github.com/arindal1/textual-movie-matcher/blob/main/MovieRecommendationSystem%20-%20NaturalLanguageProcessing.ipynb)
 
-3. Follow the prompts to input your favorite movie and receive similar movie recommendations.
+3. Run the lines one by one in Jupyter Notebook.
 
 ## Expanding the Project
 
@@ -91,7 +91,6 @@ For any questions or suggestions, feel free to reach out to me:
 
 - GitHub: [arindal1](https://github.com/arindal1)
 - LinkedIn: [arindalchar](https://www.linkedin.com/in/arindalchar/)
-
 
 **Note:** This is a personal project created for educational and demonstrative purposes. I made this project just for fun and learn more about Machine Learning in the process, and also record my progress in this field.
 
