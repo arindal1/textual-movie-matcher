@@ -1,0 +1,6 @@
+- python
+- jupyter notebook or google collab
+- numpy
+- pandas
+- scikit learn
+- movies.csv dataset
