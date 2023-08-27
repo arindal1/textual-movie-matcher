@@ -6,10 +6,10 @@ The Movie Recommendation System using Textual Features is designed to provide us
 
 ### Uses and Importance
 
-📎 **Personalized Recommendations**: Tailors movie suggestions to users' unique preferences, moving beyond generic genre-based recommendations.
-🎞️ **Diverse Movie Exploration**: Helps users discover movies they might not have considered otherwise.
-🎬 **Enhanced Viewing Experience**: Enriches users' cinematic journey by introducing them to a wider range of films.
-📹 **Understanding Textual Similarity**: Demonstrates the power of cosine similarity in quantifying textual relationships.
+📎 **Personalized Recommendations**: Tailors movie suggestions to users' unique preferences, moving beyond generic genre-based recommendations. <br>
+🎞️ **Diverse Movie Exploration**: Helps users discover movies they might not have considered otherwise. <br>
+🎬 **Enhanced Viewing Experience**: Enriches users' cinematic journey by introducing them to a wider range of films. <br>
+📹 **Understanding Textual Similarity**: Demonstrates the power of cosine similarity in quantifying textual relationships. <br>
 
 ## Code Break-down
 
