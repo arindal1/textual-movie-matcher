@@ -81,10 +81,11 @@ Contributions to this project are welcome! If you'd like to contribute, feel fre
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to us:
+For any questions or suggestions, feel free to reach out to me:
 
 - GitHub: [arindal1](https://github.com/arindal1)
 - LinkedIn: [arindalchar](https://www.linkedin.com/in/arindalchar/)
+
 
 **Note:** This is a personal project created for educational and demonstrative purposes. I made this project just for fun and learn more about Machine Learning in the process, and also record my progress in this field.
 
