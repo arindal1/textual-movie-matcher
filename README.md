@@ -59,7 +59,7 @@ Implement a user interface to collect and store user ratings for movies. These r
 
 ## Contributions
 
-Contributions to this project are welcome! If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Please ensure you adhere to the project's coding style and guidelines.
+Contributions to this project are welcome! If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Please ensure you adhere to the project's coding style and environment.
 
 1. Fork the repository to your GitHub account.
 
